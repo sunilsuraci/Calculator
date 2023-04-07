@@ -3,6 +3,30 @@ class Calculator {
         this.previusOperandTextElement = previusOperandTextElement
         this.currentOperandTextElement = currentOperandTextElement
     }
+
+    clear() {
+
+    }
+
+    delete() {
+
+    }
+
+    appendNumber(number) {
+
+    }
+
+    chooseOperation(operation) {
+
+    }
+
+    compute() {
+
+    }
+
+    updateDisplay() {
+        
+    }
 }
 
 
